@@ -1,0 +1,22 @@
+{
+  "name": "octodead",
+  "version": "0.0.0",
+  "description": "octodead ========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peterdemartini/octodead.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterdemartini/octodead/issues"
+  },
+  "homepage": "https://github.com/peterdemartini/octodead",
+  "dependencies": {
+    "skynet-mqtt": "~0.6.0"
+  }
+}
